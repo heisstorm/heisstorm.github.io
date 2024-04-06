@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Shijie Lu&#39;s Homepage</title>
-    <link>https://shijie-lu.com/categories/</link>
+    <link>https://heisstorm.github.io/categories/</link>
     <description>Recent content in Categories on Shijie Lu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://shijie-lu.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://heisstorm.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
