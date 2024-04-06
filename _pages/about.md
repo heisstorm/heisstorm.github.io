@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Shijie Lu. I’m a 1st year Ph.D. student in computer science at ASU, fortunately advised by Prof. Xusheng Xiao. I am broadly interested in real-world computer security topics. More specifically, I focus on studying web security/privacy problems and building secure systems that can be used in practice.
+Hi, my name is Shijie Lu. I’m a 1st year Ph.D. student in computer science at [Arizona State University](https://www.asu.edu/), fortunately advised by [Prof. Xusheng Xiao](https://xusheng-xiao.github.io/). I am broadly interested in real-world computer security topics. More specifically, I focus on studying web security/privacy problems and building secure systems that can be used in practice.
 
 Before ASU, I received my bachelor’s from Wuhan University of Technology, and received M.S. from George Washington University.
 
